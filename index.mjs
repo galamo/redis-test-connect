@@ -1,6 +1,6 @@
 import { createClient } from "redis";
 
-const url = "poc-actuary1-47jcji.serverless.ilc1.cache.amazonaws.com:11211"; //replace this URL with your dns.
+const url = "PUT HERE THE DNS"; //replace this URL with your dns.
 
 // 1. replace the url parameter with your DNS
 // 2. copy the folder to the server
